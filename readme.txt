@@ -13,4 +13,5 @@ Creating a new branch is quick.
 $ git switch -c dev
 Switched to a new branch 'dev'
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
